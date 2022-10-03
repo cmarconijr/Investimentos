@@ -10,3 +10,4 @@ criar_linha <- function(nomelinha, nomeTab,lin){
   nomelinha <- nomelinha[linhas,]
 
 }
+

@@ -18,3 +18,7 @@ outros_func<- function(df_por_setor, plan3_reference){
   outros <- outros %>%
     select(setor_outros, outros2)
 }
+
+
+
+

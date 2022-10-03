@@ -7,6 +7,6 @@
 
 
 renomear_disc <- function(dataframe){
-  rename(dataframe, "Pais" = "Discrimina\\u00e7\\u00e3o")
+  rename(dataframe, "Pais" = "Discriminação")
 }
 
