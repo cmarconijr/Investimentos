@@ -10,4 +10,9 @@ lista_paises <-  c("Ilhas Virgens Britânicas", "Panamá", "Estados Unidos", "Su
                       "Cuba", "Bolívia", "África do Sul", "Ilhas Menores Distantes dos EUA", "Tailândia", "Equador", "Aruba", "Turquia", "Gana", "El Salvador","Santa Lúcia",
                       "Moçambique", "Honduras", "Grécia", "Taiwan", "Egito", "Polônia", "Romênia", "República Tcheca", "Ilhas Lebuan", "Antilhas Holandesas",
                       "Bahrein", "Eslováquia", "Zâmbia", "Barbados", "Argélia", "Malásia", "Marrocos", "Nigéria", "Trinidad e Tobago", "Finlândia", "Indonésia",
-                      "Congo", "Chipre", "Guiné Equatorial", "Cabo Verde", "Macau", "Catar","Ilhas Jersey", "Israel", "Países Baixos", "Ilha de Man", "Angola", "Finlândia" )
+                      "Congo", "Chipre", "Guiné Equatorial", "Cabo Verde", "Macau", "Catar", "Angola" )
+
+
+
+
+

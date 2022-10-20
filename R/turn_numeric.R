@@ -8,5 +8,9 @@
 
 
 turn_numeric <- function(dataframe, len){
-  dataframe %>% mutate(dplyr::across(.cols=2:len, .fns=as.numeric))
+  # Alteração feita aqui em 14/10/2022
+  dataframe %>%
+    mutate(dplyr::across(.cols=2:len, .fns=as.numeric))
 }
+
+
